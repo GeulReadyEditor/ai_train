@@ -6,3 +6,5 @@ requests==2.26.0
 tensorflow==2.5.0
 tensorflow-estimator==2.5.0
 Werkzeug==2.0.1
+numpy==1.19.5
+APScheduler==3.7.0
